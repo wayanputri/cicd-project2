@@ -2,6 +2,7 @@ module alta/immersive-dashboard-api
 
 go 1.20
 
+
 require (
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect

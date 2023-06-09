@@ -26,4 +26,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/immersive-project2:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/immersive-project:latest
